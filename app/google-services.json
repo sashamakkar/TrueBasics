@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190289279721",
+    "firebase_url": "https://truebasics-9773b.firebaseio.com",
+    "project_id": "truebasics-9773b",
+    "storage_bucket": "truebasics-9773b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190289279721:android:4129a24396079fee6cce78",
+        "android_client_info": {
+          "package_name": "com.sashamakkar.truebasics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190289279721-a43vcs2ckk380lcm57t7nr0edmfb3ops.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKLDW7hntA4r7-TKjVDpu5_g76DD5B68s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190289279721-a43vcs2ckk380lcm57t7nr0edmfb3ops.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
